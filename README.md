@@ -1,2 +1,4 @@
 # internshipSources
-It's an example repo of how-to-properly represent your work as an intern
+Run:
+- `kubectl apply -f deployment.yaml`
+- `kubectl apply -f service.yaml`
