@@ -1,2 +1,2 @@
 # internshipSources
-It's an example repo of how-to-properly represent your work as an intern
+Is it your webserver sources? No, it's an example repo.
