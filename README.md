@@ -1,2 +1,4 @@
-# internshipSources
-It's an example repo of how-to-properly represent your work as an intern
+# Docker
+To run an app type 
+`docker build .`
+`docker run -d -p 8080 ...`
