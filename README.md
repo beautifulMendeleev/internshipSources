@@ -7,4 +7,4 @@ It's an example repo of how-to-properly represent your work as an intern
 - [kube](https://github.com/beautifulMendeleev/internshipSources/blob/kube/README.md)
 - [monitoring](https://github.com/beautifulMendeleev/internshipSources/blob/monitoring/README.md)
 
-aslkjfdlksajflkjdsaflkjsljff
+TIME 13:00
